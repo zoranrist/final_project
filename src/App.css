@@ -1,0 +1,17 @@
+header {
+  background-color: #764abc;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  text-shadow: 0 0 10px black;
+  padding: 40px 20px;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: 200;
+  text-align: center;
+  color: #fff;
+}

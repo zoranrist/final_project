@@ -1,0 +1,32 @@
+div.formControl {
+  width: 300px;
+  min-height: 80px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+div.formControl label {
+  float: left;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+div.formControl input,
+div.formControl textarea {
+  float: left;
+  clear: left;
+  width: calc(100% - 40px);
+  padding: 3px 20px;
+  box-shadow: 0 0 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+div.formControl input {
+  margin-bottom: 30px;
+  border: none;
+  height: 40px;
+}
+
+div.formControl textarea {
+  min-height: 50px;
+  border: none;
+}
