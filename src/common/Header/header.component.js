@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <>
       <header>
-        <h1>My App</h1>
+        <h1>Aplikacija na Zoran Ristovski</h1>
         <ul>
           <li>
             <NavLink to="/" exact activeClassName="active">
